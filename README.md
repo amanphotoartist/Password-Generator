@@ -1,5 +1,7 @@
 Advanced Password Generator
+
 This is a simple yet advanced password generator application built with Python and Tkinter. It allows users to generate strong passwords with customizable character sets and lengths. Additionally, the application can copy the generated password to the clipboard.
+
 
 Features
 Generate passwords with customizable lengths (minimum 4 characters).
